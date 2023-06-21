@@ -13,17 +13,14 @@ I am undergrad Software Engineer at Bennett University
 - ✍️ I write my blog on https://vanshblog.hashnode.dev/
 - 📫 How to reach me: vanshb767@gmail.com 
 
-<h2> Connect with me </h2>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@vansh689511632" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vansh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/linkedin.com/in/vansh-bhardwaj-student-24a938202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/VanshBhardwaj24kant-24a938202" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/879051" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="879051" height="30" width="40" /></a>
-<a href="https://instagram.com/vansh__.03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/vansh242003" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kumar2002" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/vansh242003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="laxmikantk2002" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vansh242003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="laxmikantk2002" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@vanshb767" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@laxmikantk2002" height="30" width="40" /></a>
-<a href="https://discord.gg/vansh2403" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Kumar#9663" height="30" width="40" /></a>
+<a href="https://dev.to/vanshbhardwaj24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="vanshbhardwaj24" height="30" width="40" /></a>
+<a href="https://twitter.com/@vansh68951163" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@vansh68951163" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vansh-bhardwaj-student" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vansh-bhardwaj-student" height="30" width="40" /></a>
+<a href="https://hashnode.com/@inisightfulvansh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@inisightfulvansh" height="30" width="40" /></a>
+<a href="https://medium.com/@vanshb767" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vanshb767" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/contant change" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="contant change" height="30" width="40" /></a>
 </p>
 
 <h2> My GitHub Stats</h2>
