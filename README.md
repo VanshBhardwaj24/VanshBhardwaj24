@@ -44,7 +44,16 @@
     </td>
   </tr>
 </table>
-
+<table>
+  <tr>
+<!--     <td>
+      <img src="https://stats.quine.sh/VanshBhardwaj24/github?theme=dark">
+    </td>
+    <td>
+      <img src="https://stats.quine.sh/VanshBhardwaj24/languages-over-time?theme=dark">
+    </td>
+  </tr>
+</table> -->
 
  <h2> Skills </h2>
 <p align="left">
