@@ -2,12 +2,13 @@
 
 ![github-header-image (11)](https://github.com/VanshBhardwaj24/VanshBhardwaj24/assets/76782067/93af7dec-0286-4fac-8cb5-769381b82310)
 
+[![An image of @vanshbhardwaj24's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vanshbhardwaj24)](https://holopin.io/@vanshbhardwaj24)
 
 
 <br>
 
 - 🔭 I’m currently working on Voice recognition and trading bot with python libraries
-- 🌱 I’m currently learning Python ( Advanced) ,Android Development, Solidity 
+- 🌱 I’m currently learning Python ( Advanced) ,Web Development, Solidity and Web 3
 - 👯 I’m looking to collaborate on Projects / Hackathons 
 - 💬 Ask me about Coding ,Tech, Open-Source, Freelancing, Internships ,Music, Gaming
 - ✍️ I write my blog on https://vanshblog.hashnode.dev/
@@ -22,6 +23,7 @@
 <a href="https://hashnode.com/@inisightfulvansh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@inisightfulvansh" height="30" width="40" /></a>
 <a href="https://medium.com/@vanshb767" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vanshb767" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/contant change" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="contant change" height="30" width="40" /></a>
+
 
 </p>
 
