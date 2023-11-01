@@ -13,19 +13,19 @@
 - ✍️ I write my blog on https://vanshblog.hashnode.dev/
 - 📫 How to reach me: vanshb767@gmail.com 
 
-<h3 align="left">Connect with me:</h3>
+## 🌐 Socials 
 <p align="left">
 <a href="https://dev.to/vanshbhardwaj24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="vanshbhardwaj24" height="30" width="40" /></a>
 <a href="https://twitter.com/@vansh68951163" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@vansh68951163" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vansh-bhardwaj-student" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vansh-bhardwaj-student" height="30" width="40" /></a>
-<a href="https://instagram.com/vansh__.03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vansh__.03" height="30" width="40" /></a>
+<a href="https://instagram.com/vanssxhh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vansh__.03" height="30" width="40" /></a>
 <a href="https://hashnode.com/@inisightfulvansh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@inisightfulvansh" height="30" width="40" /></a>
 <a href="https://medium.com/@vanshb767" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vanshb767" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/contant change" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="contant change" height="30" width="40" /></a>
 
 </p>
 
-<h2> My GitHub Stats</h2>
+## 📊 GitHub Stats
 <table>
   <tr>
     <td>
@@ -46,14 +46,21 @@
 </table>
 <table>
   <tr>
-<!--     <td>
+    <td>
       <img src="https://stats.quine.sh/VanshBhardwaj24/github?theme=dark">
     </td>
     <td>
       <img src="https://stats.quine.sh/VanshBhardwaj24/languages-over-time?theme=dark">
     </td>
   </tr>
-</table> -->
+</table>
+
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=VanshBhardwaj24&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=VanshBhardwaj24&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
+
 
  <h2> Skills </h2>
 <p align="left">
@@ -112,6 +119,9 @@
    </table>
 
 </p>
+
+
+
 
 
  <h2> Thank you for visiting my profile </h2>                                                                                                                      
