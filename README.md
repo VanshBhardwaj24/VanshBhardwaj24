@@ -1,4 +1,4 @@
-<h2>About Vansh Bhardwaj </h2> 
+
 
 ![github-header-image (11)](https://github.com/VanshBhardwaj24/VanshBhardwaj24/assets/76782067/93af7dec-0286-4fac-8cb5-769381b82310)
 
