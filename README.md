@@ -16,13 +16,28 @@
 
 ## 🌐 Socials 
 <p align="left">
-<a href="https://dev.to/vanshbhardwaj24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="vanshbhardwaj24" height="30" width="40" /></a>
-<a href="https://twitter.com/@vansh68951163" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@vansh68951163" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vansh-bhardwaj-student" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vansh-bhardwaj-student" height="30" width="40" /></a>
-<a href="https://instagram.com/vanssxhh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vansh__.03" height="30" width="40" /></a>
-<a href="https://hashnode.com/@inisightfulvansh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@inisightfulvansh" height="30" width="40" /></a>
-<a href="https://medium.com/@vanshb767" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vanshb767" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/contant change" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="contant change" height="30" width="40" /></a>
+  
+  <a href="https://twitter.com/@vansh68951163" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/twitter--v2.png" alt="Twitter" height="40" style="margin: 0 20px;">
+  </a>
+  <a href="https://linkedin.com/in/vansh-bhardwaj-student" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="40" style="margin: 0 20px;">
+  </a>
+  <a href="https://instagram.com/vanssxhh" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram" height="40" style="margin: 0 20px;">
+  </a>
+  <a href="https://hashnode.com/@inisightfulvansh" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/hashnode.png" alt="Hashnode" height="40" style="margin: 0 20px;">
+  </a>
+  <a href="https://medium.com/@vanshb767" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/medium-monogram.png" alt="Medium" height="40" style="margin: 0 20px;">
+  </a>
+  <a href="https://www.youtube.com/c/contantchange" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" height="40" style="margin: 0 20px;">
+  </a>
+</p>
+
+
 
 
 </p>
