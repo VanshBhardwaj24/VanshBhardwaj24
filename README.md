@@ -15,7 +15,7 @@
 - 📫 How to reach me: vanshb767@gmail.com 
 
 ## 🌐 Socials 
-<p align="left">
+<p align="center">
   
   <a href="https://twitter.com/@vansh68951163" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/twitter--v2.png" alt="Twitter" height="40" style="margin: 0 20px;">
@@ -69,6 +69,7 @@
     <td>
       <img src="https://stats.quine.sh/VanshBhardwaj24/languages-over-time?theme=dark">
     </td>
+    
   </tr>
 </table>
 
@@ -140,11 +141,9 @@
 
 
 
+<div align="center" style="background-color: #f0f0f0; padding: 20px;">
+  <h2 style="font-size: 24px; color: #333;">👏 Thank you for visiting my profile</h2>
+  <p style="font-size: 16px; color: #666;">You are visitor number:</p>
+  <img src="https://profile-counter.glitch.me/VanshBhardwaj24/count.svg" alt="Visitor Count" style="font-size: 24px; color: #333;">
+</div>
 
- <h2> Thank you for visiting my profile </h2>                                                                                                                      
- <table>
-        <tr>
-             <td><h3> Visitors: </h3></td>
-             <td><img src="https://profile-counter.glitch.me/VanshBhardwaj24/count.svg"></td>                                                                     
-        </tr>                                                                                             
- </table>
