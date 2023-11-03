@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning Python ( Advanced) ,Web Development, Solidity and Web 3
 - 👯 I’m looking to collaborate on Projects / Hackathons 
 - 💬 Ask me about Coding ,Tech, Open-Source, Freelancing, Internships ,Music, Gaming
-- ✍️ I write my blog on https://vanshblog.hashnode.dev/
+- ✍️ I write my blog on ![hashnode](https://vanshblog.hashnode.dev/)
 - 📫 How to reach me: vanshb767@gmail.com 
 
 ## 🌐 Socials 
