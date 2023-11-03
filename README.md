@@ -4,7 +4,7 @@
 
 [![An image of @vanshbhardwaj24's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vanshbhardwaj24)](https://holopin.io/@vanshbhardwaj24)
 
-<img align = "right" alt = coding man width = "400px" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47f0af47edseaysj8x2nmu22sd7cp99nuoa73be9g7&rid=giphy.gif&ct=g">
+<img align = "right" alt = coding man width = "340px" length="400px" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47f0af47edseaysj8x2nmu22sd7cp99nuoa73be9g7&rid=giphy.gif&ct=g">
 <br>
 
 - 🔭 I’m currently working on Voice recognition and trading bot with python libraries
