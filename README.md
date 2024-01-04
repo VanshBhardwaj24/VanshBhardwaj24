@@ -1,6 +1,6 @@
 
 
-## ![github-header-image (11)](https://github.com/VanshBhardwaj24/VanshBhardwaj24/assets/76782067/93af7dec-0286-4fac-8cb5-769381b82310)
+
 
 [![An image of @vanshbhardwaj24's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vanshbhardwaj24)](https://holopin.io/@vanshbhardwaj24)
 
