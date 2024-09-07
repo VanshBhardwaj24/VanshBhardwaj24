@@ -7,7 +7,7 @@
 <img align = "right" alt = coding man width = "340px" length="400px" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47f0af47edseaysj8x2nmu22sd7cp99nuoa73be9g7&rid=giphy.gif&ct=g">
 <br>
 
-- 🔭 I’m currently working on adding many more https://github.com/VanshBhardwaj24?tab=repositories
+- 🔭 I’m currently working on adding many ![repositories](https://github.com/VanshBhardwaj24?tab=repositories)
 - 🌱 I’m currently learning Programming
 - 👯 I’m looking to collaborate on Projects / Hackathons 
 - 💬 Ask me about Coding ,Tech, Open-Source, Freelancing, Internships ,Music, Gaming
