@@ -8,10 +8,8 @@
 <br>
 
 - 🔭 I’m currently working on adding many ![repositories](https://github.com/VanshBhardwaj24?tab=repositories)
-- 🌱 I’m currently learning Programming
 - 👯 I’m looking to collaborate on Projects / Hackathons 
 - 💬 Ask me about Coding ,Tech, Open-Source, Freelancing, Internships ,Music, Gaming
-- ✍️ I write my blog on ![hashnode](https://vanshblog.hashnode.dev/)
 - 📫 How to reach me: vanshb767@gmail.com 
 
 ## 🌐 Socials 
