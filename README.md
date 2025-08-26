@@ -1,6 +1,7 @@
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"/>
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
 </div>
+
 
 # 👨‍💻 Vansh Bhardwaj | Software Developer
 ### 🚀 Building the future, one commit at a time
@@ -26,8 +27,9 @@
 
 ### 🏆 GitHub Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VanshBhardwaj24&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=3"/>
+  <img src="https://raw.githubusercontent.com/ryo-ma/github-profile-trophy/master/profile-trophy.svg"/>
 </p>
+
 
 ### 📈 Contribution Activity
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=VanshBhardwaj24&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
