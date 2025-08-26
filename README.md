@@ -19,10 +19,41 @@
 - ⚡ Fun fact: I love building **AI agents and immersive 3D storefronts**  
 
 ---
+## 🏗️ Featured Projects  
+
+<p align="center">
+  <a href="https://github.com/vanshbhardwaj24/career-quest">
+    <img src="https://img.shields.io/badge/🎯 Career%20Quest-1a1b27?style=for-the-badge&logo=java&logoColor=white" />
+  </a>
+  <a href="https://github.com/yourgithub/learnify">
+    <img src="https://img.shields.io/badge/📚 Learnify-1a1b27?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  </a>
+  <a href="https://github.com/yourgithub/agentsaas">
+    <img src="https://img.shields.io/badge/🤖 AgentSaaS-1a1b27?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/yourgithub/3d-commerce">
+    <img src="https://img.shields.io/badge/🛍️ 3D%20Commerce-1a1b27?style=for-the-badge&logo=three.js&logoColor=white" />
+  </a>
+</p>
+
+
+
+## 🌐 Connect With Me  
+
+<p align="center">
+  <a href="https://vansh-bhardwaj-portfolio-web.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/Vansh-Bhardwaj-Student/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/vanshconst"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://github.com/VanshBhardwaj24"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:vanshb767@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
 
 ## 🛠️ Tech Stack  
 
-<div align="center">
+<div align="">
 
 ### 💻 Languages  
 <img src="https://skillicons.dev/icons?i=python,js,java,cpp,html,css" />
@@ -42,6 +73,9 @@
 </div>
 
 ---
+
+
+
 
 ## 📊 GitHub Analytics  
 
@@ -82,28 +116,12 @@
   <img src="https://ghchart.rshah.org/409ba5/VanshBhardwaj24" alt="Contribution Calendar" width="100%"/>
 </div>
 
----
 
-## 🏗️ Featured Projects  
 
-- 🎯 [Career Quest](https://github.com/vanshbhardwaj24/career-quest) → Goal Management App *(Spring Boot, React.js, Redis, WebSocket)*  
-- 📚 [Learnify](https://github.com/yourgithub/learnify) → LMS SaaS Platform *(Next.js, Stripe, BetterAuth, Arcjet)*  
-- 🤖 [AgentSaaS](https://github.com/yourgithub/agentsaas) → AI Agent SaaS Platform *(Next.js, Pinecone, Stripe, Docker)*  
-- 🛍️ [3D Commerce](https://github.com/yourgithub/3d-commerce) → Immersive 3D E-Commerce *(Next.js, Three.js, GSAP)*  
+
 
 ---
 
-## 🌐 Connect With Me  
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://vansh-bhardwaj-portfolio-web.vercel.app/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Vansh-Bhardwaj-Student/)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vanshconst)  
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VanshBhardwaj24)  
-📧 **[vanshb767@gmail.com](mailto:vanshb767@gmail.com)**  
-
-</div>
 
 ---
 
