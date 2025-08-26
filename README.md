@@ -1,26 +1,62 @@
-<h1 align="center">Hi 👋, I'm Vansh Bhardwaj</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<!-- Profile Banner / Badges -->
+[![Holopin Badges](https://holopin.me/vanshbhardwaj24)](https://holopin.io/@vanshbhardwaj24)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vanshbhardwaj24&label=Profile%20views&color=0e75b6&style=flat" alt="vanshbhardwaj24" /> </p>
+<!-- GIF -->
+<img align="right" alt="Coding" width="340px" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47f0af47edseaysj8x2nmu22sd7cp99nuoa73be9g7&rid=giphy.gif&ct=g">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vanshbhardwaj24" alt="vanshbhardwaj24" /></a> </p>
+# 👋 Hi, I'm Vansh Bhardwaj  
 
-<p align="left"> <a href="https://twitter.com/vanshconst" target="blank"><img src="https://img.shields.io/twitter/follow/vanshconst?logo=twitter&style=for-the-badge" alt="vanshconst" /></a> </p>
+🎯 Passionate about **Open Source**, **Full-Stack Development**, and **Collaborative Projects**.  
+💡 Actively contributing to projects, preparing for **Google Summer of Code (GSoC)**.  
 
-- 🌱 I’m currently learning **Backend , AIML**
+---
 
-- 👨‍💻 All of my projects are available at [https://portfolio12-ebon.vercel.app/](https://portfolio12-ebon.vercel.app/)
+## 🚀 About Me  
+- 🔭 Currently working on multiple [repositories](https://github.com/VanshBhardwaj24?tab=repositories)  
+- 👯 Open to collaborating on **Open Source Projects / Hackathons**  
+- 🌱 Exploring **Backend Systems, Distributed Computing & Cloud**  
+- 💬 Ask me about **Coding, Tech, Open-Source, Freelancing, Internships, Music, Gaming**  
+- 📫 Reach me: **vanshb767@gmail.com**  
 
-- 💬 Ask me about **react,gsap,tensorflow**
+---
 
-- 📫 How to reach me **vanshb767@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/vanshconst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vanshconst" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vansh-bhardwaj-student" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vansh-bhardwaj-student" height="30" width="40" /></a>
+## 🌐 Connect with Me  
+<p align="center">
+  <a href="https://twitter.com/vansh68951163"><img src="https://img.icons8.com/color/48/000000/twitter--v2.png" height="40"></a>
+  <a href="https://linkedin.com/in/vansh-bhardwaj-student"><img src="https://img.icons8.com/color/48/000000/linkedin.png" height="40"></a>
+  <a href="https://instagram.com/vanssxhh"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" height="40"></a>
+  <a href="https://hashnode.com/@inisightfulvansh"><img src="https://img.icons8.com/color/48/000000/hashnode.png" height="40"></a>
+  <a href="https://medium.com/@vanshb767"><img src="https://img.icons8.com/color/48/000000/medium-monogram.png" height="40"></a>
+  <a href="https://www.youtube.com/c/contantchange"><img src="https://img.icons8.com/color/48/000000/youtube-play.png" height="40"></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vanshbhardwaj24&show_icons=true&locale=en&layout=compact" alt="vanshbhardwaj24" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vanshbhardwaj24&show_icons=true&locale=en" alt="vanshbhardwaj24" /></p>
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VanshBhardwaj24&show_icons=true&count_private=true&theme=algolia&hide_border=true" height="150"/>  
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=VanshBhardwaj24&theme=algolia&hide_border=true" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanshBhardwaj24&layout=compact&theme=algolia&hide_border=true" height="150"/>
+</p>
+
+---
+
+## 🏆 Achievements  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=VanshBhardwaj24&theme=tokyonight&no-frame=true&row=1&margin-w=10" />
+</p>
+
+---
+
+## 🌱 Current Goals  
+- ✅ Contribute to **Open Source Projects** aligned with GSoC  
+- ✅ Build impactful **full-stack applications**  
+- ✅ Improve skills in **System Design & Backend**  
+- ✅ Collaborate with developers worldwide  
+
+---
+
+⭐️ _If you find my work interesting, consider following me and checking my repositories!_  
