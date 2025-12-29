@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Vansh!
 
+**Software Developer | AI & SaaS Builder | Full-Stack Engineer**
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Building+Scalable+SaaS;AI+Agent+Architecture;Full+Stack+Development;Cloud-Native+Solutions" alt="Typing SVG" />
@@ -29,15 +30,17 @@
 
 ### 📊 GitHub Statistics
 
+
+
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=VanshBhardwaj24&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanshBhardwaj24&layout=compact&langs_count=8&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=VanshBhardwaj24&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VanshBhardwaj24&layout=compact&langs_count=8&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VanshBhardwaj24&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VanshBhardwaj24&theme=tokyo-night" />
 </p>
-
 ---
 
 ### 🌐 Connect With Me
